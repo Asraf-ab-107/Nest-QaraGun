@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\tagproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\tagproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\models\\baseentity\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\models\\baseentity\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|c:\\users\\i novbe\\source\\repos\\qara gun 1\\qara gun 1\\migrations\\20241204065823_addsometablles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491909FF-BAEA-49A6-8B5E-1E6E25D6E3B4}|Qara Gun 1\\Qara Gun 1.csproj|solutionrelative:qara gun 1\\migrations\\20241204065823_addsometablles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Qara Gun 1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:35:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:27:52.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:27:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:27:18.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAKUBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:25:42.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Qara Gun 1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Qara Gun 1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T08:05:16.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Qara Gun 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:23:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "Qara Gun 1\\ViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:23:30.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagProducts.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\TagProducts.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\TagProducts.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\TagProducts.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\TagProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:26:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Slider.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:18:21.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Program.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Program.cs",
+              "RelativeToolTip": "Qara Gun 1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:53:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\ProductImages.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\ProductImages.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:34:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Product.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:45:37.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Qara Gun 1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:44:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwEAAAAAAAAAAAAAFcEAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:37:56.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Tag.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:15:26.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Qara Gun 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkCAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:49:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\Category.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:16:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241204065823_AddSomeTablles.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Migrations\\20241204065823_AddSomeTablles.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Migrations\\20241204065823_AddSomeTablles.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Migrations\\20241204065823_AddSomeTablles.cs",
+              "RelativeToolTip": "Qara Gun 1\\Migrations\\20241204065823_AddSomeTablles.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:58:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\BaseEntity\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Qara Gun 1\\Models\\BaseEntity\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Qara Gun 1\\Qara Gun 1\\Models\\BaseEntity\\BaseClass.cs",
+              "RelativeToolTip": "Qara Gun 1\\Models\\BaseEntity\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:43.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
